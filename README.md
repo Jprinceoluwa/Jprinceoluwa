@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @Jprinceoluwa<br>- 👀 I’m interested in Artificial Intelligence<br>- 🌱 I’m currently learning React Js & Python Django <br>- 💞️ I’m looking to collaborate on Website development projects<br>- 📫 How to reach me, visit -> abdulwadudoluwa.tech
+ 👋 Hi, I’m @Jprinceoluwa<br>- 👀 I’m interested in Artificial Intelligence<br>- 🌱 I’m currently learning React Js & Python Django <br>- 💞️ I’m looking to collaborate on Website development projects<br>- 📫 How to reach me, visit -> me.abdulwadudoluwa.tech
 
 
 ## 🌐 Socials:
